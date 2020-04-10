@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://fh332393900.github.io
+url: https://mind-node.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -99,5 +99,5 @@ theme: melody
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: http://github.com/fh332393900/fh332393900.github.io
+  repo: https://github.com/mind-node/mind-node.github.io
   branch: master
