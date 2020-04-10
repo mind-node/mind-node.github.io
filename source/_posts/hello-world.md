@@ -24,6 +24,8 @@ $ git clone git@github.com:mind-node/mind-node.github.io.git
 ┌─scaffolds               			//文章结构的配置文件							  
 ├─source           					//文章文件夹
 │	├─_post							//存放文章的文件夹
+│	├─categories                    //文章分类
+│	├─tags                          //文章标签
 ├─themes      						//主题文件夹
 ├─_config.yml         				//项目的配置文件，网站的标题等信息
 |	├─.travis.yml					//ci持续集成配置文件
