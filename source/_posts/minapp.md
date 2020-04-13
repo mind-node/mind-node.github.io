@@ -10,7 +10,7 @@ tags:
 
 ###### 1.1目录截图
 
-<img src=".\image-20200318115552768.png" alt="image-20200318115552768" style="zoom: 50%;" />
+![](../image/image-20200318115552768.png)
 
 ###### 1.2 操作流程
 
@@ -73,7 +73,7 @@ tags:
 
 ​	2.1.1 登录流程
 
-​			![](.\api-login.2fcc9f35.jpg)
+​			![](../image/api-login.2fcc9f35.jpg)
 
 ​	2.1.2 登录功能描述	
 
