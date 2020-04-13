@@ -99,5 +99,5 @@ theme: melody
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/mind-node/mind-node.github.io
+  repo: git@github.com:mind-node/mind-node.github.io.git
   branch: master

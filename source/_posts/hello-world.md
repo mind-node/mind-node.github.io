@@ -11,6 +11,10 @@ tags:
 仓库git地址： git@github.com:mind-node/mind-node.github.io.git
 执行命令
 ``` shell
+$ git clone https://github.com/mind-node/mind-node.github.io.git
+```
+或者
+``` shell
 $ git clone git@github.com:mind-node/mind-node.github.io.git
 ```
 - 切换到 project 分支
