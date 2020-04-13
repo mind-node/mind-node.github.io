@@ -1,16 +1,16 @@
 ---
-title: 电子名片
+title: 微信开发相关
 date: 2020/4/10 16:34:30
 categories:
 - 博客
 tags:
-- 博客
+- 前端
 ---
 ##### **1.电子名片 项目结构**
 
 ###### 1.1目录截图
 
-![](../image/image-20200318115552768.png)
+![](https://mind-node.github.io/image/image-20200318115552768.png)
 
 ###### 1.2 操作流程
 
@@ -73,7 +73,7 @@ tags:
 
 ​	2.1.1 登录流程
 
-​			![](../image/api-login.2fcc9f35.jpg)
+​			![](https://mind-node.github.io/image/api-login.2fcc9f35.jpg)
 
 ​	2.1.2 登录功能描述	
 
